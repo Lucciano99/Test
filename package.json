@@ -19,7 +19,7 @@
     "expo-task-manager": "~8.3.0",
     "firebase": "~7.9.0",
     "global": "^4.4.0",
-    "lodash": "^4.17.20",
+    "lodash": "^4.17.21",
     "react": "~16.11.0",
     "react-dom": "~16.11.0",
     "react-native": "https://github.com/expo/react-native/archive/sdk-38.0.2.tar.gz",
